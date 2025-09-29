@@ -1,0 +1,30 @@
+html{
+    background-color: pink;
+}
+
+.title-color{
+    color: palevioletred;
+}
+
+.main-title{
+    color: #f04441;
+}
+
+.global-nav-color{
+    color:#f238f5;
+    background-color: #f898fa;
+}
+
+.local-nav-color{
+    color: #f898fa;
+    background-color: #f238f5;
+}
+
+.border-list{
+    list-style-type: none;
+    border-style: dotted;
+    border-width: 4px;
+    padding: 10px;
+    background-color: #ffdefc;
+
+}
